@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.nightsky</groupId>
     <artifactId>keycache-spring-boot-starter</artifactId>
-    <version>1.2.1.2</version>
+    <version>1.2.1.3</version>
     <packaging>jar</packaging>
     <dependencies>
         <dependency>
@@ -20,6 +20,6 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <keycache.version>1.2.1</keycache.version>
-        <keycache.autoconf.version>1.2.1.2</keycache.autoconf.version>
+        <keycache.autoconf.version>1.2.1.3</keycache.autoconf.version>
     </properties>
 </project>
